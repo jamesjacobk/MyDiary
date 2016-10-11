@@ -1,0 +1,34 @@
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light+Two);
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body
+{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+	font-family: "shadows into light",cursive;
+	font-size:1.5em;
+}
+
+.memories
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-collapse:collapse;
+	background: #eef;
+}
+.memories th{
+	background-color: #00ddff;
+	font-weight: normal;
+	padding: 1em;
+}
+
+.memories td {
+	padding: 0.7em 1em 0.7em 1.15em;
+}
+
