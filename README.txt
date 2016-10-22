@@ -3,6 +3,8 @@ MyDiary by James Jacob (jamesjacobk)
 You need to have a WAMP/LAMP server to use this.
 Tested on Bitnami WAMP Stack.
 
+Replace the username, password and host entries with the correct ones in 'sqlConnect.php'.
+
 Name of the database that it creates is "MyDiary". It can be changed in the file 'index.php'.
 Consequently, edits need to be made in other files.
 
